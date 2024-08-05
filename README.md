@@ -13,7 +13,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
     <b>Instructions</b>
   </summary>
 
-  You can find instructions on how to use this repository at [INSTRUCTIONS.md](INSTRUCTIONS.md).
+  You can find instructions on how to use this repository at [the original github](https://github.com/migueltc13/TryHackMe).
 </details>
 
 <br/>
